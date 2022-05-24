@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutores da Kenzie Academy Brasil em parceria com o Burger King.
 
-## Ferramentas
+## Ferramentas 🛠️
 
 1. HTML
 2. CSS
