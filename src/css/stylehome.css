@@ -1,0 +1,62 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    background: linear-gradient(179.61deg, #F5EBDC 70.82%, rgba(245, 235, 220, 0) 82.47%, #FFFFFF 98.72%);
+}
+.container{
+    max-width: 1329px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.logos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+}
+.linhahorizontal{
+    width: 100%;
+    height: 1px;
+    background: #D62200;
+}
+.infoCentral{
+    display: flex;
+    flex-direction: column;
+    padding-top: 41px;
+    align-items: center;
+}
+.btnComeçarPedido button{
+    width: 333.47px;
+    height: 95.9px;;    
+    background: #DB3B1D;
+    border: none;
+    border-radius: 15px;
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 42px;
+    cursor: pointer;
+}
+.btnComeçarPedido button:hover{
+    transition: 0.3s ease-in-out;
+    transform:scale(1.03);
+}
+.rodape{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rodape .cabecalho p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #502314;
+    margin-top: 57px;
+}
+.rodape img{
+    margin-top: 18px;
+}
+
+
+
