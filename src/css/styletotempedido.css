@@ -1,0 +1,160 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    background: #F5F3F0;
+}
+.container{
+    max-width: 1329px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.logos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+}
+.linhahorizontal{
+    width: 100%;
+    height: 1px;
+    background: #D62200;
+}
+.infoPrincipal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.infoPrincipal .bandeiras img{
+    padding: 0px 39px;
+}
+.telaCPF{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 532px;
+    height: 642px;
+    border: 1px solid #502314;
+    border-radius: 20px;
+    margin-top: 21px;
+    padding: 32px;
+}
+.telaCPF .coroa{
+    display: flex;
+    justify-content: center;
+}
+.telaCPF h3{
+    margin-top: 21px;
+    text-align: center;
+    font-weight: 200;
+    font-size: 26px;
+    text-align: center;
+    color: #502314;
+}
+.telaCPF h3 i{
+    font-style: italic;
+}
+.telaCPF h3 strong{
+    font-weight: bold;
+}
+.telaCPF p{
+    padding-top: 13px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 12px;
+    text-align: center;
+    color: #502314;
+}
+.telaCPF .caixa{
+    margin-top: 18px;
+    width: 291.89px;
+    height: 66.95px;
+    background: #FFFFFF;
+    border: 1px solid #502314;
+    border-radius: 10px;
+}
+.containerTeclado{
+    margin-top: 17px;
+    width: 170px;   
+    height: 206px;
+}
+.containerTeclado .teclado{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.teclado .teclas{
+    padding: 5px;
+}
+.teclado .teclas button{
+    width: 44.63px;
+    height: 44.63px;
+    background: #FFFFFF;
+    border: 1px solid #502314;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #502314;
+    cursor: pointer;
+}
+.teclado .teclas button:hover{
+    transition: 0.1s ease-in-out;
+    transform:scale(1.1);
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.btn button:hover{
+    transition: 0.3s ease-in-out;
+    transform:scale(1.03);
+}
+.btn button{
+    font-family: 'Nunito';
+    width: 299px;
+    height: 50.88px;
+    left: 807px;
+    top: 779px;
+    background: #DB3B1D;
+    border: none;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.btn button ~ button{
+    margin-top: 19px;
+    background: #F5EBDC;
+    border: 2px solid #DB3B1D;
+    border-radius: 10px;
+    font-family: 'Nunito';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 18px;
+    align-items: center;
+    text-align: center;
+    color: #DB3B1D;
+}
+.rodape{
+    height: 151px;;
+    margin-top: 47px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #FFFFFF;
+}
+.rodape .cabecalho p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #502314;
+    margin-top: 28px;
+}
+.rodape img{
+    margin-top: 18px;
+}
