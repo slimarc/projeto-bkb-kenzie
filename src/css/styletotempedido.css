@@ -25,6 +25,12 @@ body{
 .infoPrincipal .bandeiras img{
     padding: 0px 39px;
 }
+.infoPrincipal .bandeiras .eua{
+    opacity: 0.4;
+}
+.infoPrincipal .bandeiras .espanha{
+    opacity: 0.4;
+}
 .telaCPF{
     display: flex;
     flex-direction: column;
