@@ -1,10 +1,13 @@
-# Projeto BK
+<h1 align="center">Projeto BKB - Kenzie</h1>
 
 Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutores da Kenzie Academy Brasil em parceria com o Burger King.
 
-## O projeto
+## Layouts do projeto 🖼️:
 
-Projeto ainda em construção 🚧
+![](./imgs/layout-home.png)
+![](./imgs/layout-pedido.png)
+![](./imgs/layout-retirar-viagem.png)
+![](./imgs/layout-totem-finaliza%C3%A7%C3%A3o.png)
 
 ## Linguagens utilizadas 🛠️:
 
@@ -15,7 +18,7 @@ Projeto ainda em construção 🚧
 </div>
 
 ## Autor 👨‍🎨:
-Ricardo Lima | Aspirante a front-end developer
+Ricardo Lima | Aspirante a desenvolvedor
 <div>
     <a href="mailto:sricardolimaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a> 
     <a href="https://www.linkedin.com/in/slimarc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
