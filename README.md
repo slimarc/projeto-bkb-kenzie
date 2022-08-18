@@ -7,7 +7,7 @@ Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutor
 ![](./imgs/layout-home.png)
 ![](./imgs/layout-pedido.png)
 ![](./imgs/layout-retirar-viagem.png)
-![](./imgs/layout-totem-finaliza%C3%A7%C3%A3o.png)
+![](./imgs/layout-totem-finalizacao.png)
 
 ## Linguagens utilizadas 🛠️:
 
